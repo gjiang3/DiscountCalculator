@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					C5CE1FE81F0CC18A0034BD34 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 2CW23R3T8B;
 						ProvisioningStyle = Automatic;
 					};
 					C5CE20011F0CC18A0034BD34 = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2CW23R3T8B;
 				INFOPLIST_FILE = DiscountCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Gary.DiscountCalculator;
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2CW23R3T8B;
 				INFOPLIST_FILE = DiscountCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Gary.DiscountCalculator;
